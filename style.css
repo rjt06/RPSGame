@@ -103,3 +103,9 @@ body {
   opacity: 0.3;
 }
 
+.note {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+
